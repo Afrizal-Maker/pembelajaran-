@@ -1,1 +1,1 @@
-{ "ZonaModz": [ { "version": 1.5 } ] }
+{ "ZonaModz": [ { "version": 2.5 } ] }
